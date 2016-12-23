@@ -5,6 +5,5 @@
   "license": "none",
   "summary": "A module for a thing",
   "source": "https://github.com/abottchen/env_repo",
-  "dependencies": [
-  ],
+  "dependencies": [  ]
 }
